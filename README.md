@@ -1,7 +1,10 @@
-# analog_gear_clock
+# Analog Gear Clock
 
 An analog clock with gear
 
-## Getting Started
+This is the flutter project for analog clock with gear
 
-This flutter project for analog clock with gear
+<img src='analog_gear_clock.gif' width='350'>
+
+<img src='analog_gear_clock.png' width='350'>
+
